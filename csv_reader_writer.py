@@ -109,7 +109,7 @@ with open('my_data_dictwriter.csv') as f:
     print(f.read())
 
 
-print(ipnut())
+ipnut()
 
 
 # Для запису однієї строки словника
