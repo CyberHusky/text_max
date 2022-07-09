@@ -108,6 +108,10 @@ with open('my_data_dictwriter.csv', 'w') as f:
 with open('my_data_dictwriter.csv') as f:
     print(f.read())
 
+
+print(ipnut())
+
+
 # Для запису однієї строки словника
 # writer.writerow({'first_name': 'Baked', 'last_name': 'Beans'})
 
